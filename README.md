@@ -46,7 +46,7 @@ This website will make the organization to be known by many community members, a
 └── README.md            
 
 ### How to Run
-No need to install just double click the page you waan to see
+No need to install just double click the page in the file explorer and the page will appear on the browser.
 
 ### Hosting Plan
 Part 1: Github Pages (free)
