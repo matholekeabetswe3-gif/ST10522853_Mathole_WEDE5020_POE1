@@ -61,3 +61,26 @@ Future : Custom .co.za domain
 
 #### Mobile (375px)
 ![Mobile view](./Images/Mobile.png)
+
+### ## References and Image Sources 
+### Logo 
+ **Base Concept:** ShelterCare. 2020. *ShelterCare - Hope is here logo concept*. Available at: https://www.sheltercare.org/ [Accessed 01 September  2026]. - 
+ **Final Adaptation:** The original concept was downloaded and the text was customized to "Kgotso Foundation" using generative AI. The final logo file is `Images/Kgotso_logo.jpg` and is an original adaptation created for this academic project.
+
+ ### Images -
+  All other images used are original or from royalty-free sources (e.g., Unsplash/Pexels) and are credited in code comments where applicable.
+   ### AI Use Declaration (As per IIE Guidelines) In accordance with IIE academic integrity guidelines, the following AI tool was used: -
+    Tool: OpenAI ChatGPT (GPT-4o) -  01 September 2026 - 
+    Purpose: 1. Assistance in editing the logo image to include "Kgotso Foundation" text. 
+                 2. Assistance in generating responsive CSS media queries for tablet and mobile breakpoints. -
+                  **Prompt Example:** "Edit the shelter logo to say Kgotso Foundation and help me add media queries for navigation at 768px and 480px" -
+                   **Human Oversight:** All AI-generated code and images were reviewed, tested, and manually adjusted by the student to meet project requirements. 
+                 
+### Code References 
+ MDN Web Docs. 2026. CSS Flexible Box Layout. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout [Accessed 12 September 2026]. - W3Schools. 2026. CSS Media Queries. 
+ Available at: https://www.w3schools.com/css/css3_mediaqueries.asp [Accessed 23 August 2026]. 
+## GitHub Repository
+https://github.com/matholekeabetswe3-gif/ST10522853 Mathole WEDE5020 POE1.git 
+ 
+
+
