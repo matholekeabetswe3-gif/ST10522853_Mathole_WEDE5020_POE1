@@ -40,9 +40,9 @@ This website will make the organization to be known by many community members, a
 │
 ├── index.html              
 ├── about.html              
-├── Services.html          
-├── Contact.html            
-├── Enquiry.html            
+├── services.html          
+├── contact.html            
+├── enquiry.html            
 └── README.md            
 
 ### How to Run
