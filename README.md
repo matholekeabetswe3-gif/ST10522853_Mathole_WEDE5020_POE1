@@ -75,6 +75,11 @@ Future : Custom .co.za domain
                  2. Assistance in generating responsive CSS media queries for tablet and mobile breakpoints. -
                   **Prompt Example:** "Edit the shelter logo to say Kgotso Foundation and help me add media queries for navigation at 768px and 480px" -
                    **Human Oversight:** All AI-generated code and images were reviewed, tested, and manually adjusted by the student to meet project requirements. 
+    
+    Fig 1: Shelter beds.Available at: https://share.google/0PaCLry7V7EdsArrf/ [Accessed 31 October 2026]
+
+    Fig 2: Learners doing homework - Original image from Google Images, edited with ChatGPT to add Kgotso Foundation branding.
+    
                  
 ### Code References 
  MDN Web Docs. 2026. CSS Flexible Box Layout. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_flexible_box_layout [Accessed 12 September 2026]. - W3Schools. 2026. CSS Media Queries. 
